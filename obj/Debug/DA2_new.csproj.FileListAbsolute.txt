@@ -1,0 +1,9 @@
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\bin\Debug\DA2_new.exe.config
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\bin\Debug\DA2_new.exe
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\bin\Debug\DA2_new.pdb
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\obj\Debug\DA2_new.Form1.resources
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\obj\Debug\DA2_new.Properties.Resources.resources
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\obj\Debug\DA2_new.csproj.GenerateResource.Cache
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\obj\Debug\DA2_new.exe
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\obj\Debug\DA2_new.pdb
+D:\HocTap\HK5\LY THUYET DO THI\BAO CAO\DA2_new\DA2_new\obj\Debug\DA2_new.csprojResolveAssemblyReference.cache
